@@ -1,6 +1,6 @@
 # projets_ensae_2025
 
-# # Groupes
+## Groupes
 
 | Groupe | Élève 1 | Élève 2 | Élève 3 | 
  | ---  | --- | --- | --- | 
