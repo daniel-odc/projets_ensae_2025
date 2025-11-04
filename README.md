@@ -9,4 +9,4 @@
  | groupe3	 | Adam	 | Louise	 |  | 
  | groupe4	 | Adrien	 | Arthur	 | Yann | 
  | groupe5	 | Alexandre Toux	 | Angela | 	
- | groupe6	 | Quentin	 | Thamid	 |  | 
+ | groupe6	 | Quentin	 | Thamid	 | Ruben | 
